@@ -32,7 +32,7 @@ module.exports = {
         name: "angularQ2Counter",
         filename: "remoteEntry.js",
         exposes: {
-            Counter: './src/bootstrap.ts',
+            "./Counter": './src/bootstrap.ts',
         },        
         
         // For hosts (please adjust)

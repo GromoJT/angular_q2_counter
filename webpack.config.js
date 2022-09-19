@@ -11,7 +11,7 @@ sharedMappings.register(
 module.exports = {
   output: {
     uniqueName: "angularQ2Counter",
-    publicPath: "http://localhost:4200/"
+    publicPath: "auto"
   },
   optimization: {
     runtimeChunk: false
